@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Harini Emmadi!
 
- **B.Tech CSE (Data Science)** @ GRIET, Hyderabad (2027 Batch)  
- Passionate about Software Development, Artificial Intelligence & DSA  
- Building intelligent, user-centric applications using **Java, Python, and React**
+ **B.Tech CSE (Data Science)** @ GRIET, Hyderabad (2027 Batch). Passionate about Software Development, Artificial Intelligence & DSA. Building intelligent, user-centric applications using **Java, Python, and React**
 
 ---
 
