@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Harini Emmadi!
 
-🎓 **B.Tech CSE (Data Science)** @ GRIET, Hyderabad (2027 Batch)  
-💡 Passionate about Software Development, Artificial Intelligence & DSA  
-🚀 Building intelligent, user-centric applications using **Java, Python, and React**
+ **B.Tech CSE (Data Science)** @ GRIET, Hyderabad (2027 Batch)  
+ Passionate about Software Development, Artificial Intelligence & DSA  
+ Building intelligent, user-centric applications using **Java, Python, and React**
 
 ---
 
-### 🧠 What I’m Currently Working On
-- 🤖 *QueryTube* – Semantic YouTube Search Engine using AI embeddings  
-- 💬 *Java Chat Application* – Real-time socket-based chat with GUI  
-- 🎬 *JourneyVista* – Full-stack travelling platform.  
-- 🧩 Exploring AI and Data Structures for scalable applications  
+### 💡 What I’m Currently Working On
+- *QueryTube* – Semantic YouTube Search Engine using AI embeddings  
+- *Java Chat Application* – Real-time socket-based chat with GUI  
+- *JourneyVista* – Full-stack travelling platform.  
+- Exploring AI and Data Structures for scalable applications  
 
 ---
 
@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 ---
 
 ### 🏆 Achievements
-- 🥇 **National Semi-Finalist – Flipkart GRiD**
-- 🧠 **IITH Hackathon** – Built “Smart Study Hub” for students  
-- 💻 **GSSoC’25** – Open Source Contributor  
-- 🌐 **Infosys Springboard AI Intern**
+- **National Semi-Finalist – Flipkart GRiD**
+- **IITH Hackathon** – Built “Smart Study Hub” for students  
+- **GSSoC’25** – Open Source Contributor  
+- **Infosys Springboard AI Intern**
 
 ---
 
