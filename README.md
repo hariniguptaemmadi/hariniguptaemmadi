@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 💡 What I’m Currently Working On
+### What I’m Currently Working On
 - *QueryTube* – Semantic YouTube Search Engine using AI embeddings  
 - *Java Chat Application* – Real-time socket-based chat with GUI  
 - *JourneyVista* – Full-stack travelling platform.  
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 **Languages:** Java, Python, JavaScript  
 **Frontend:** React.js, Tailwind CSS  
 **Backend:** Node.js, Express  
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🏆 Achievements
+### Achievements
 - **National Semi-Finalist – Flipkart GRiD**
 - **IITH Hackathon** – Built “Smart Study Hub” for students  
 - **GSSoC’25** – Open Source Contributor  
@@ -43,14 +43,14 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Harini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariniguptaemmadi&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariniguptaemmadi&layout=compact&theme=tokyonight)
 
 ---
 
-### 🤝 Let’s Connect!
+### Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harini%20Emmadi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harini-emmadi-b8279b329)
 [![GitHub](https://img.shields.io/badge/GitHub-hariniguptaemmadi-black?style=flat&logo=github)](https://github.com/hariniguptaemmadi)
