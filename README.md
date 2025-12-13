@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 
 ---
 
-### What I’m Currently Working On
-- *QueryTube* – Semantic YouTube Search Engine using AI embeddings  
-- *Java Chat Application* – Real-time socket-based chat with GUI  
-- *JourneyVista* – Full-stack travelling platform.  
-- Exploring AI and Data Structures for scalable applications  
-
----
-
 ### Tech Stack
 **Languages:** Java, Python, JavaScript  
 **Frontend:** React.js, Tailwind CSS  
