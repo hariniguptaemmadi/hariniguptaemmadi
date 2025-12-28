@@ -35,13 +35,6 @@ Here are some ideas to get you started:
 
 ---
 
-### GitHub Stats
-
-![Harini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariniguptaemmadi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariniguptaemmadi&layout=compact&theme=tokyonight)
-
----
-
 ### Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harini%20Emmadi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harini-emmadi-b8279b329)
