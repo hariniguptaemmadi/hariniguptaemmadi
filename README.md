@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 ### Achievements
 - **National Semi-Finalist – Flipkart GRiD**
-- **IITH Hackathon** – Built “Smart Study Hub” for students  
 - **GSSoC’25** – Open Source Contributor  
 - **Infosys Springboard AI Intern**
 
